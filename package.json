@@ -1,0 +1,15 @@
+{
+  "name": "mailer-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.3.1",
+    "nodemailer-express-handlebars": "^3.1.0"
+  }
+}
